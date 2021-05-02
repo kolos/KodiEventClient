@@ -3,7 +3,7 @@ A simple EventClient for remote controlling Kodi from the ESP8266
 
 ## Example
 
-```
+```cpp
 #include <KodiEventClient.h>
 
 KodiEventClient kodiClient("192.168.0.4", 9777);
